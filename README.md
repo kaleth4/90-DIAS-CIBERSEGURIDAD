@@ -215,12 +215,16 @@ Dev            →  Python · Git
 ## 👤 Autor
 
 **Kaleth Corcho**  
-Ingeniería de Sistemas · WolvesTI · Bogotá, Colombia  
+Ingeniería de Sistemas · red teamer · Bogotá, Colombia  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-kaleth--corcho-0077B5?style=flat&logo=linkedin)](https://linkedin.com)
 [![GitHub](https://img.shields.io/badge/GitHub-kaleth4-181717?style=flat&logo=github)](https://github.com/kaleth4)
 
 ---
 
+## 🎉🏆 eJPT
+<img width="905" height="691" alt="181115014" src="https://github.com/user-attachments/assets/8dccf7fb-8ca8-4ee9-9529-eba1485f51ca" />
+
+
 <div align="center">
-  <sub>⚡ Construido para quienes van en serio con la ciberseguridad · <a href="https://github.com/kaleth4">WolvesTI</a></sub>
+  <sub>⚡ Construido para quienes van en serio con la ciberseguridad · <a href="https://github.com/kaleth4">kaleth corcho</a></sub>
 </div>
