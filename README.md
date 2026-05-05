@@ -222,9 +222,9 @@ Ingeniería de Sistemas · red teamer · Bogotá, Colombia
 ---
 
 ## 🎉🏆 eJPT
-<img width="905" height="691" alt="181115014" src="https://github.com/user-attachments/assets/8dccf7fb-8ca8-4ee9-9529-eba1485f51ca" />
+<img width="634" height="491" alt="181115014" src="https://github.com/user-attachments/assets/a97b4ff0-868a-42c5-b2d7-a12e67412901" />
 
 
-<div align="center">
+
   <sub>⚡ Construido para quienes van en serio con la ciberseguridad · <a href="https://github.com/kaleth4">kaleth corcho</a></sub>
 </div>
